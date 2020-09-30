@@ -1,0 +1,11 @@
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\ConsoleVB\ConsoleVB\bin\Debug\ConsoleVB.exe.config
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\ConsoleVB\ConsoleVB\bin\Debug\ConsoleVB.exe
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\ConsoleVB\ConsoleVB\bin\Debug\ConsoleVB.pdb
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\ConsoleVB\ConsoleVB\bin\Debug\ConsoleVB.xml
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\ConsoleVB\ConsoleVB\obj\Debug\ConsoleVB.vbprojAssemblyReference.cache
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\ConsoleVB\ConsoleVB\obj\Debug\ConsoleVB.Resources.resources
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\ConsoleVB\ConsoleVB\obj\Debug\ConsoleVB.vbproj.GenerateResource.cache
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\ConsoleVB\ConsoleVB\obj\Debug\ConsoleVB.vbproj.CoreCompileInputs.cache
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\ConsoleVB\ConsoleVB\obj\Debug\ConsoleVB.exe
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\ConsoleVB\ConsoleVB\obj\Debug\ConsoleVB.xml
+D:\Victorino Vila\924-vb-net-primeiros-passos\Vídeos\924-vb-net-primeiros-passos-Vídeo1.4-Comparanto C# com VB.NET\Download\Código\ConsoleVB\ConsoleVB\obj\Debug\ConsoleVB.pdb
